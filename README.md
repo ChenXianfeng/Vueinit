@@ -11,6 +11,10 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
+
+
+# 执行到此次即可，不必往下执行，下面是打包用到的暂时用不到
+
 # build for production with minification
 npm run build
 
